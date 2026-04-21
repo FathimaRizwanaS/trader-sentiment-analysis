@@ -1,5 +1,9 @@
 #  Trader Performance vs Market Sentiment Analysis
 
+##  Key Takeaway
+
+Trader profitability is highest during Extreme Greed, driven by strong momentum, but remains significantly high during Fear due to volatility-based opportunities. This indicates that both trend-following and volatility-exploiting strategies can be effective when aligned with market sentiment.
+
 ##  Objective
 This project analyzes how Bitcoin market sentiment (Fear/Greed index) impacts trader behavior and performance on Hyperliquid. The goal is to uncover patterns that can inform more effective, data-driven trading strategies.
 
